@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohamedtan1
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on  
+- 💞️ I’m looking to collaborate on google
 - 📫 How to reach me:
 Instagram ~> mohamed.prv4
 Twitter ~> Mohamedtan_1
